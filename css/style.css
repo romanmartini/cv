@@ -168,7 +168,7 @@ ul {
     display: inline-block;
 }
 .d-none{
-    display: none;
+    display: none !important;
 }
 
 .primary-svg {
