@@ -94,6 +94,28 @@ ul {
     padding-inline-start: 0;
 
 }
+
+@media screen and (max-width: 992px){
+
+    html{
+        font-size: 100%;
+    }
+
+}
+@media screen and (max-width: 768px){
+
+    html{
+        font-size: 95%;
+    }
+
+}
+@media screen and (max-width: 480px){
+
+    html{
+        font-size: 90%;
+    }
+
+}
 /* ========================================================
 # Components
 ======================================================== */
