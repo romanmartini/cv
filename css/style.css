@@ -399,6 +399,17 @@ section.section {
 .fa-wordpress{
     color: #00749C;
 }
+@media screen and (max-width: 480px){
+    
+    .list-inline-item:not(:last-child) {
+        margin-right: 1.5rem;
+    }
+
+    .dev-icon{
+        font-size: 2rem;
+    }
+
+}
 /* Experience
 -------------------------------*/
 
