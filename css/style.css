@@ -189,6 +189,9 @@ ul {
 .d-inline-block{
     display: inline-block;
 }
+.justify-content-between{
+    justify-content: space-between;
+}
 .d-none{
     display: none !important;
 }
